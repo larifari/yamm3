@@ -1,12 +1,12 @@
 {
   "name": "Yamm",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Yet another megamenu for Bootstrap",
   "homepage": "http://geedmo.github.io/yamm3/",
   "author": "@geedmo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geedmo/yamm3"
+    "url": "https://github.com/larifari/yamm3"
   },
   "dependencies": {},
   "devDependencies": {
